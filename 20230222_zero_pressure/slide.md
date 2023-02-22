@@ -68,16 +68,6 @@ javascript:(function(){document.designMode = 'on'})()
 
 # 便利なブックマークレットを見つけたら周りの人に共有して、みんなで幸せになろう！
 
---- 
-
-# ちなみにこの資料はVscodeのMarpという拡張で作ってみました！
-
-スライドの作成時間1時間のうち、40分ぐらいはスライドを作るツールで悩みました :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry:
-
-![w:900 center](fig4.png)
-
-参考：https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode
-
 ---
 
 # おわり
